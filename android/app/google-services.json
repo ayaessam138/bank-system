@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "281742733501",
+    "project_id": "banksystem-9b053",
+    "storage_bucket": "banksystem-9b053.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:281742733501:android:8dcd0c0f699ebfe15807d4",
+        "android_client_info": {
+          "package_name": "com.example.bankSystem"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "281742733501-teiqrilkq6cidiiv4lm4v9io80prc58a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBhV40FkYmBQ0uhEwvRwBJjjEArS7yS0n4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "281742733501-teiqrilkq6cidiiv4lm4v9io80prc58a.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "281742733501-4vjdor3u6o8ftg1u45qj7rffu175nbak.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.banksystem"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:281742733501:android:97e74619dd6d78805807d4",
+        "android_client_info": {
+          "package_name": "com.example.banksystem"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "281742733501-teiqrilkq6cidiiv4lm4v9io80prc58a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBhV40FkYmBQ0uhEwvRwBJjjEArS7yS0n4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "281742733501-teiqrilkq6cidiiv4lm4v9io80prc58a.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "281742733501-4vjdor3u6o8ftg1u45qj7rffu175nbak.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.banksystem"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

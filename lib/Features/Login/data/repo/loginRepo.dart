@@ -1,0 +1,8 @@
+import 'package:banksystem/Features/SignUp/data/Model/signUpModel.dart';
+import 'package:banksystem/core/Failure.dart';
+import 'package:dartz/dartz.dart';
+
+abstract class LoginRepo {
+  Future<Either<Failure,void>> login({required SignUpModel signUp});
+
+}
